@@ -3,5 +3,5 @@
 <p align="center">
   Building AI-first companies. Denver, CO.
   <br /><br />
-  <a href="https://lrpcapital.org">Website</a> . <a href="https://www.linkedin.com/company/lrp-capital/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/lrp-capital/">LinkedIn</a>
 </p>
